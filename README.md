@@ -9,6 +9,7 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 [![Bsky](https://img.shields.io/badge/Bsky-Profile-blue?logo=bsky)](https://bsky.app/profile/xianyuye.bsky.social)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://x.com/xianyuye237)
 [![Linktree](https://img.shields.io/badge/Linktree-Profile-blue?logo=linktree)](https://linktr.ee/xianyuye)
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-Profile-blue?logo=daily.dev)](https://app.daily.dev/mocha208)
 
 ## 🌐 My Websites
 

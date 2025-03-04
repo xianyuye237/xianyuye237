@@ -31,3 +31,21 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 ---
 
 ⭐️ Feel free to **star** my repositories and follow me for more updates!
+
+## 🌐 My Websites
+
+| Website                                                                 | Description                                      |
+| ----------------------------------------------------------------------- | ------------------------------------------------ |
+| [2048games.cc](https://2048games.cc/)                                   | Classic 2048 puzzle with multiple variants       |
+| [emoji2025.com](https://emoji2025.com/)                                 | Platform to explore emoji combinations           |
+| [2048numbers.com](https://2048numbers.com/)                             | Number-based 2048 game with various board sizes  |
+| [2048cakes.com](https://2048cakes.com/)                                 | Cake-themed 2048 game                            |
+| [2048symbols.com](https://2048symbols.com/)                             | Symbol version of the 2048 game                  |
+| [ilove2048.com](https://ilove2048.com/)                                 | Premier platform for 2048 game enthusiasts       |
+| [onlineimagesplitter.com](https://onlineimagesplitter.com/)             | Online image splitting tool                      |
+| [clickspacebar.com](https://clickspacebar.com/)                         | Spacebar clicking game                           |
+| [numberconnectionchallenge.com](https://numberconnectionchallenge.com/) | Number connection challenge game                 |
+| [catanboard.com](https://catanboard.com/)                               | Catan board game resources                       |
+| [thetrendgames.com](https://thetrendgames.com/)                         | Popular trending games platform                  |
+| [duckduckgame.com](https://duckduckgame.com/)                           | Duck-themed gaming experience                    |
+| [jigsaw100.com](http://jigsaw100.com/)                                  | Puzzle challenges with varying difficulty levels |

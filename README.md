@@ -2,47 +2,31 @@
 
 ## 🌟 About Me
 
-Hi, I'm **Your Name**! Welcome to my special repository. Here you can find useful links, projects, and ways to connect with me.
+Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find useful links, projects, and ways to connect with me.
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/yourprofile)
-[![Blog](https://img.shields.io/badge/Blog-Visit-green?logo=wordpress)](https://yourblog.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)
+[![Bsky](https://img.shields.io/badge/Bsky-Profile-blue?logo=bsky)](https://bsky.app/profile/xianyuye.bsky.social)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://x.com/xianyuye237)
+[![Linktree](https://img.shields.io/badge/Linktree-Profile-blue?logo=linktree)](https://linktr.ee/xianyuye)
 
-## 🚀 My Projects
+## 🌐 My Websites
 
-- **[Project 1](https://github.com/yourusername/project1)** - A short description.
-- **[Project 2](https://github.com/yourusername/project2)** - Another great project.
-- **[More Projects](https://github.com/yourusername?tab=repositories)** - Check out all my repositories.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true)
-
-## 📣 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [More Posts](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
-
-## 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem)](https://open.spotify.com/user/yourspotifyid)
+| Website                                                                 | Title                       | Description                                                                                                                                      | Features                                                                                                              |
+| ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| [2048games.cc](https://2048games.cc/)                                   | 2048 - ilove2048.c          | Play 2048 online for free! Enjoy the classic 2048 puzzle or explore new modes. Swipe and merge numbers to master 2048 and climb the leaderboard. | Offers multiple 2048 variants, including animals, fruits, and Christmas-themed versions.                              |
+| [emoji2025.com](https://emoji2025.com/)                                 | EMOJI 2025                  | Explore all available emoji combinations.                                                                                                        | Offers emoji search, combination recommendations, and an emoji kitchen feature.                                       |
+| [2048numbers.com](https://2048numbers.com/)                             | 2048 Numbers                | Play the 2048 number game online for free! Merge numbers, explore new modes, and challenge your skills.                                          | Focuses on the numeric version of 2048, providing 4x4, 5x5, 6x6, and other board sizes.                               |
+| [2048cakes.com](https://2048cakes.com/)                                 | 2048 Cakes                  | A cake-themed 2048 gaming experience.                                                                                                            | Offers a cake-themed variant of the 2048 game.                                                                        |
+| [2048symbols.com](https://2048symbols.com/)                             | 2048 Symbols                | A 2048 game that uses various symbols.                                                                                                           | Provides a symbols version of 2048, including math and currency symbols.                                              |
+| [ilove2048.com](https://ilove2048.com/)                                 | I Love 2048                 | The top choice platform for 2048 game enthusiasts.                                                                                               | Main 2048 website, possibly offering multiple 2048 variants.                                                          |
+| [onlineimagesplitter.com](https://onlineimagesplitter.com/)             | Online Image Splitter       | An online image splitting tool.                                                                                                                  | Provides online image splitting and processing features.                                                              |
+| [clickspacebar.com](https://clickspacebar.com/)                         | Click Spacebar              | A spacebar-based clicking game or tool.                                                                                                          | Possibly a game or tool that revolves around spacebar clicks.                                                         |
+| [numberconnectionchallenge.com](https://numberconnectionchallenge.com/) | Number Connection Challenge | A number connection challenge game.                                                                                                              | Provides a number-connection type challenge.                                                                          |
+| [catanboard.com](https://catanboard.com/)                               | Catan Board                 | Resources related to the Catan board game.                                                                                                       | Possibly provides tools or resources related to the Catan board game.                                                 |
+| [thetrendgames.com](https://thetrendgames.com/)                         | The Trend Games             | A popular trend gaming platform.                                                                                                                 | Provides currently trending games.                                                                                    |
+| [duckduckgame.com](https://duckduckgame.com/)                           | Duck Duck Game              | A duck-themed game.                                                                                                                              | Offers a duck-themed gaming experience.                                                                               |
+| [jigsaw100.com](http://jigsaw100.com/)                                  | Puzzle Challenge            | Discover and create jigsaw puzzles from around the world with varying difficulty levels.                                                         | Features multimedia puzzle studio, intelligent difficulty adjustment, and global puzzle discovery with cultural tags. |
 
 ---
 

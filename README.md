@@ -10,6 +10,10 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://x.com/xianyuye237)
 [![Linktree](https://img.shields.io/badge/Linktree-Profile-blue?logo=linktree)](https://linktr.ee/xianyuye)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-Profile-blue?logo=daily.dev)](https://app.daily.dev/mocha208)
+[![Cal](https://img.shields.io/badge/Cal-Profile-blue?logo=cal)](https://cal.com/mochacha-mocha-rndch2)
+[![Folllio](https://img.shields.io/badge/Folllio-Profile-blue?logo=folllio)](https://folll.io/mochachamocha)
+[![Folllio](https://img.shields.io/badge/Folllio-Resume-blue?logo=folllio)](https://folll.io/mochachamocha/resume/)
+[![Linklist](https://img.shields.io/badge/Linklist-Profile-blue?logo=linklist)](https://linklist.topicsdirect.com)
 
 ## 🌐 My Websites
 

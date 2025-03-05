@@ -14,6 +14,8 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 [![Folllio](https://img.shields.io/badge/Folllio-Profile-blue?logo=folllio)](https://folll.io/mochachamocha)
 [![Folllio](https://img.shields.io/badge/Folllio-Resume-blue?logo=folllio)](https://folll.io/mochachamocha/resume/)
 [![Linklist](https://img.shields.io/badge/Linklist-Profile-blue?logo=linklist)](https://linklist.topicsdirect.com)
+[![Carrd](https://img.shields.io/badge/Carrd-Profile-blue?logo=carrd)](https://xianyuye.carrd.co/)
+[![Behance](https://img.shields.io/badge/Behance-Profile-blue?logo=behance)](https://www.behance.net/mochachamocha)
 
 ## 🌐 My Websites
 
@@ -54,3 +56,20 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 | [thetrendgames.com](https://thetrendgames.com/)                         | Popular trending games platform                  |
 | [duckduckgame.com](https://duckduckgame.com/)                           | Duck-themed gaming experience                    |
 | [jigsaw100.com](http://jigsaw100.com/)                                  | Puzzle challenges with varying difficulty levels |
+
+Website List
+| Website | Title | Description | Features |
+|---------|--------|-------------|-----------|
+| https://jigsaw100.com/ | Puzzle Challenge | Online puzzle community platform | 1. Multimedia puzzle creation tool (supports photos, vectors, gradient backgrounds)<br>2. Intelligent difficulty adjustment (50-1000+ pieces)<br>3. Global puzzle discovery system (filter by country/cultural tags)<br>4. Private sharing support<br>5. Weekly team curated collections |
+| https://2048games.cc/ | 2048 - ilove2048.c | Play 2048 game online for free! Enjoy classic 2048 puzzle gameplay or explore new modes. Slide and combine numbers to master 2048 and climb the leaderboard. | Offers various 2048 game variants including animals, fruits, and Christmas themes |
+| https://emoji2025.com/ | EMOJI 2025 | Explore all available emoji combinations | Provides emoji search, combination recommendations and emoji kitchen features |
+| https://2048numbers.com/ | 2048 Numbers | Play 2048 number game online for free! Merge numbers, explore new modes, challenge your skills. | Focuses on number version of 2048 game, offering 4x4, 5x5, 6x6 and other board sizes |
+| https://2048cakes.com/ | 2048 Cakes | Cake-themed 2048 game experience | Provides cake-themed variants of 2048 game |
+| https://2048symbols.com/ | 2048 Symbols | 2048 game with various symbols | Offers symbol versions of 2048 game, including math symbols, currency symbols etc. |
+| https://ilove2048.com/ | I Love 2048 | Premier platform for 2048 game enthusiasts | Main 2048 game website offering multiple game variants |
+| https://onlineimagesplitter.com/ | Online Image Splitter | Online image splitting tool | Provides online image splitting and processing capabilities |
+| https://clickspacebar.com/ | Click Spacebar | Spacebar clicking game or tool | A game or tool based on spacebar clicking |
+| https://numberconnectionchallenge.com/ | Number Connection Challenge | Number connection challenge game | Provides number connection type challenge games |
+| https://catanboard.com/ | Catan Board | Catan board game resources | Provides tools and resources related to Catan board game |
+| https://thetrendgames.com/ | The Trend Games | Trending games platform | Offers currently trending games |
+| https://duckduckgame.com/ | Duck Duck Game | Duck-themed games | Provides duck-themed gaming experiences |

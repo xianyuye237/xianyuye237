@@ -17,6 +17,12 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 [![Carrd](https://img.shields.io/badge/Carrd-Profile-blue?logo=carrd)](https://xianyuye.carrd.co/)
 [![Behance](https://img.shields.io/badge/Behance-Profile-blue?logo=behance)](https://www.behance.net/mochachamocha)
 
+## 🎮 游戏开发作品集
+
+我的游戏开发作品集展示了我在游戏设计和开发方面的经验和技能。欢迎访问以下链接查看详细内容:
+
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-blue?logo=notion)](https://cloudy-belt-dcc.notion.site/My-Game-Development-Portfolio-19a86d2af7d580f183ebc56bf2b2de4e)
+
 ## 🌐 My Websites
 
 | Website                                                                 | Title                       | Description                                                                                                                                      | Features                                                                                                              |
@@ -33,7 +39,7 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 | [catanboard.com](https://catanboard.com/)                               | Catan Board                 | Resources related to the Catan board game.                                                                                                       | Possibly provides tools or resources related to the Catan board game.                                                 |
 | [thetrendgames.com](https://thetrendgames.com/)                         | The Trend Games             | A popular trend gaming platform.                                                                                                                 | Provides currently trending games.                                                                                    |
 | [duckduckgame.com](https://duckduckgame.com/)                           | Duck Duck Game              | A duck-themed game.                                                                                                                              | Offers a duck-themed gaming experience.                                                                               |
-| [jigsaw100.com](http://jigsaw100.com/)                                  | Puzzle Challenge            | Discover and create jigsaw puzzles from around the world with varying difficulty levels.                                                         | Features multimedia puzzle studio, intelligent difficulty adjustment, and global puzzle discovery with cultural tags. |
+| [jigsaw100.com](https://jigsaw100.com/)                                 | Puzzle Challenge            | Discover and create jigsaw puzzles from around the world with varying difficulty levels.                                                         | Features multimedia puzzle studio, intelligent difficulty adjustment, and global puzzle discovery with cultural tags. |
 
 ---
 
@@ -55,7 +61,7 @@ Hi, I'm **Xianyuye237**! Welcome to my special repository. Here you can find use
 | [catanboard.com](https://catanboard.com/)                               | Catan board game resources                       |
 | [thetrendgames.com](https://thetrendgames.com/)                         | Popular trending games platform                  |
 | [duckduckgame.com](https://duckduckgame.com/)                           | Duck-themed gaming experience                    |
-| [jigsaw100.com](http://jigsaw100.com/)                                  | Puzzle challenges with varying difficulty levels |
+| [jigsaw100.com](https://jigsaw100.com/)                                 | Puzzle challenges with varying difficulty levels |
 
 Website List
 | Website | Title | Description | Features |
@@ -73,3 +79,58 @@ Website List
 | https://catanboard.com/ | Catan Board | Catan board game resources | Provides tools and resources related to Catan board game |
 | https://thetrendgames.com/ | The Trend Games | Trending games platform | Offers currently trending games |
 | https://duckduckgame.com/ | Duck Duck Game | Duck-themed games | Provides duck-themed gaming experiences |
+
+My Game Development Portfolio
+
+2048 Game Series
+
+I've developed several variations of the popular 2048 puzzle game. The flagship version
+<a href="https://2048games.cc/" title="2048 - Play classic 2048 puzzle with multiple variants">2048games.cc</a>
+offers various themes including animals, fruits, and holiday editions. For number enthusiasts,
+<a href="https://2048numbers.com/" title="2048 Numbers - Multiple board size options">2048numbers.com</a>
+provides different board sizes from 4x4 to 6x6. We also have themed versions like
+<a href="https://2048cakes.com/" title="2048 Cakes - Cake-themed puzzle game">2048cakes.com</a>
+and <a href="https://2048symbols.com/" title="2048 Symbols - Play with math and currency symbols">2048symbols.com</a>.
+
+Utility and Creative Tools
+
+For creative professionals, <a href="https://onlineimagesplitter.com/" title="Online Image Splitter - Free image processing tool">onlineimagesplitter.com</a>
+provides essential image processing capabilities. Emoji enthusiasts can explore
+<a href="https://emoji2025.com/" title="EMOJI 2025 - Explore emoji combinations">emoji2025.com</a>
+for discovering unique emoji combinations and kitchen features.
+
+Casual Gaming Experiences
+
+Our casual gaming collection includes <a href="https://clickspacebar.com/" title="Click Spacebar - Simple spacebar-based game">clickspacebar.com</a>
+for quick entertainment, and <a href="https://numberconnectionchallenge.com/" title="Number Connection Challenge - Connect numbers puzzle game">numberconnectionchallenge.com</a>
+for puzzle lovers. Board game enthusiasts can find resources at
+<a href="https://catanboard.com/" title="Catan Board - Resources for Catan players">catanboard.com</a>.
+
+Specialized Gaming Platforms
+
+For puzzle enthusiasts, <a href="https://jigsaw100.com/" title="Puzzle Challenge - Create and solve custom puzzles">jigsaw100.com</a>
+offers a comprehensive puzzle creation and solving platform with difficulty levels from 50 to 1000+ pieces.
+Stay updated with latest gaming trends at <a href="https://thetrendgames.com/" title="The Trend Games - Popular trending games">thetrendgames.com</a>,
+or enjoy our whimsical <a href="https://duckduckgame.com/" title="Duck Duck Game - Fun duck-themed gaming">duckduckgame.com</a>.
+
+Summary
+
+This portfolio showcases a diverse range of gaming experiences, from puzzle games to utility tools.
+The 2048 series represents our most comprehensive collection, while specialized platforms like
+Jigsaw100 demonstrate our commitment to creating engaging, community-driven gaming experiences.
+Each project is designed with user experience in mind, offering unique features and themes to
+appeal to different gaming preferences.
+
+[2048 - Play classic 2048 puzzle with multiple variants](https://maps.google.com/url?q=https://2048games.cc/)
+[EMOJI 2025 - Explore emoji combinations](https://maps.google.com/url?q=https://emoji2025.com/)
+[2048 Numbers - Multiple board size options](https://maps.google.com/url?q=https://2048numbers.com/)
+[2048 Cakes - Cake-themed puzzle game](https://maps.google.com/url?q=https://2048cakes.com/)
+[2048 Symbols - Play with math and currency symbols](https://maps.google.com/url?q=https://2048symbols.com/)
+[I Love 2048 - Premier platform for 2048 game enthusiasts](https://maps.google.com/url?q=https://ilove2048.com/)
+[Online Image Splitter - Free image processing tool](https://maps.google.com/url?q=https://onlineimagesplitter.com/)
+[Click Spacebar - Simple spacebar-based game](https://maps.google.com/url?q=https://clickspacebar.com/)
+[Number Connection Challenge - Connect numbers puzzle game](https://maps.google.com/url?q=https://numberconnectionchallenge.com/)
+[Catan Board - Resources for Catan players](https://maps.google.com/url?q=https://catanboard.com/)
+[The Trend Games - Popular trending games](https://maps.google.com/url?q=https://thetrendgames.com/)
+[Duck Duck Game - Fun duck-themed gaming](https://maps.google.com/url?q=https://duckduckgame.com/)
+[Puzzle Challenge - Create and solve custom puzzles](https://maps.google.com/url?q=https://jigsaw100.com/)
